@@ -1,0 +1,131 @@
+.kiemelt { 
+    color: white; 
+    background-color: teal; 
+    padding: 10px; 
+    border-radius: 6px; 
+}
+
+.dark{
+    background-color: rgb(19, 13, 13);
+    color: rgb(148, 38, 38);
+}
+
+#paklii{
+    height: 150px;
+    width: 100px;
+}
+
+#ujra{
+    height: 40px;
+    width: 80px;
+    margin-right: 200px;
+}
+
+#kezben{
+   
+    margin-top: 100px;
+    width: 10%;
+    margin-left: 20px;
+    padding-bottom: 60px;
+    padding-right: 25px;
+}
+#kezben2{
+
+    margin-top: 300px;
+    width: 10%;
+    margin-left: 25px;
+    padding-bottom: 60px;
+    padding-right: 25px;
+}
+#kezben3{
+    margin-top: 300px;
+    width: 10%;
+    margin-left: 30px;
+    padding-bottom: 60px;
+    padding-right: 25px;
+}
+#kezben4{
+    margin-top: 300px;
+    width: 10%;
+    margin-left: 35px;
+    padding-bottom: 60px;
+    padding-right: 25px;
+}
+
+#oszto1{
+    float: left;
+    margin-bottom: 300px;
+    width: 7%;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+#oszto2{
+    float: left;
+    margin-bottom: 300px;
+    width: 7%;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+#oszto3{
+    float: left;
+    margin-bottom: 300px;
+    width: 7%;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+#oszto4{
+    float: left;
+    margin-bottom: 300px;
+    width: 7%;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.lightful{
+    color: rgba(0, 0, 0, .5);
+    background-color: antiquewhite;
+}
+
+#valto{
+    float: right;
+}
+
+
+div div button img{
+    
+    height: 30px;
+    width: 30px;
+}
+
+#container{
+
+    display: flex;
+    height: 100vh;
+}
+
+#bal{
+
+    flex: 0.06;
+    border: 3px solid gray;
+}
+
+#kozep{
+    text-align: center;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+    flex: 1;
+}
+
+#jobb{
+    border: 3px solid gray;
+    flex: 0.02;
+}
+
+h1{
+    margin: auto;
+}
